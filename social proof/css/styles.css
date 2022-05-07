@@ -1,0 +1,152 @@
+body{
+  background-image: url("images\bg-pattern-bottom-desktop.svg");
+}
+.box1 {
+  background-color: lightgrey;
+  font-family: 'League Spartan', sans-serif;
+  height: 800px;
+  position: relative;
+  width: 1440px;
+}
+
+.box2 {
+  background-color: white;
+
+  height: 660px;
+  margin: 100px;
+  position: absolute;
+  width: 1220px;
+}
+
+.box3 {
+  background-color: white;
+  height: 500px;
+  margin: 80px;
+  position: absolute;
+  width: 1060px;
+}
+
+.text1 {
+  color: hsl(300, 43%, 22%);
+  font-size: 22px;
+  width: 300px;
+}
+
+.text2 {
+  width: 400px;
+}
+
+.para1{
+  font-size: 19px;
+}
+.rate1 {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+  bottom: 420px;
+  float: right;
+  height: 40px;
+  left: 540px;
+  padding-bottom: 15px;
+  position: absolute;
+  text-align: center;
+  width: 350px;
+}
+
+.rate2 {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+  bottom: 350px;
+  float: right;
+  height: 40px;
+  left: 620px;
+  padding-bottom: 15px;
+  position: absolute;
+  text-align: center;
+  width: 350px;
+}
+
+.rate3 {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+  bottom: 280px;
+  float: right;
+  height: 40px;
+  left: 700px;
+  padding-bottom: 15px;
+  position: absolute;
+  text-align: center;
+  width: 350px;
+}
+
+.review1 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 150px;
+  padding: 20px;
+  position: absolute;
+  top: 270px;
+  width: 300px;
+}
+
+.review2 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 150px;
+  left: 360px;
+  padding: 20px;
+  position: absolute;
+  top: 290px;
+  width: 300px;
+}
+
+.review3 {
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 150px;
+  left: 720px;
+  padding: 20px;
+  position: absolute;
+  top: 310px;
+  width: 300px;
+}
+
+.Smith {
+  border-radius: 25px;
+  height: 50px;
+}
+
+.Irene {
+  border-radius: 25px;
+  height: 50px;
+}
+
+.Anne {
+  border-radius: 25px;
+  height: 50px;
+}
+
+.buyer {
+  margin: 0;
+  color: hsl(333, 80%, 67%);
+}
+
+.text-top {
+  bottom: 130px;
+  left: 90px;
+  position: absolute;
+  size: 2;
+  width: 150px;
+}
+
+.name {
+  color: white;
+  margin: auto;
+}
+
+.para {
+  color: white;
+  size: 2;
+}
+.pattern-1{
+  height: 400px;
+}
